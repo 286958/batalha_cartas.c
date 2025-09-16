@@ -1,7 +1,7 @@
 # Super Trunfo em C
 
 ## Como compilar
-gcc super_trunfo.c -o super_trunfo
+gcc batalha_cartas.c -o batalha_cartas
 
 ## Como executar
 ./super_trunfo
